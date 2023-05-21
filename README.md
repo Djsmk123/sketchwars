@@ -12,10 +12,10 @@ Smilier to [Skribbl.io](https://skribbl.io/)
 
 # Team Members
 
-1) [Md Mobin](twitter.com/smk_winner) 
-2) [Ayush Verma](twitter.com/ayush02av)
-3) [Bhavishya Sharma](github.com/Bhavishya-Sharma2310)
-4) [Anushka Gupta](twitter.com/anushkaGupta333)
+1) [Md Mobin](https://twitter.com/smk_winner) 
+2) [Ayush Verma](https://twitter.com/ayush02av)
+3) [Bhavishya Sharma](https://github.com/Bhavishya-Sharma2310)
+4) [Anushka Gupta](https://twitter.com/anushkaGupta333)
 
 
 ## Challenge We faced
